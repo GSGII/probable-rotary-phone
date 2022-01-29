@@ -1,13 +1,22 @@
-      let js = "amazing";    
-      console.log(40 + 8 + 23 - 10);
+let country = 'USA';
+let continent = 'North America';
+let population = '300 Million EST';
 
-      console.log('Jonas');
-      console.log(23);
+console.log(country);
+console.log(continent);
+console.log(population);
 
-      let firstName = "Matilda";
-      console.log(firstName)
-      console.log(firstName)
-      console.log(firstName)
+     
+
+
+
+
+
+
+
+
+
+    
 
 
 
