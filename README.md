@@ -1,25 +1,3 @@
-
-Skip to content
- 
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@tractatus 
-You don’t have any verified emails. We recommend verifying at least one email.
-Email verification helps our support team verify ownership if you lose account access and allows you to receive all the notifications you ask for.
-23
-396 169 cbracco/html5-test-page
- Code  Issues 2  Pull requests 6  Projects 0  Wiki  Insights
-html5-test-page/index.html
-@cbracco cbracco Minor copy updates
-23c3d5f on Mar 19, 2018
-@cbracco @gilluminate @gnowland @ep00ch
-427 lines (426 sloc)  19.1 KB
-    
 <!doctype html>
 <html lang="en">
   <head>
@@ -40,7 +18,7 @@ html5-test-page/index.html
             <ul>
               <li><a href="#text__headings">Headings</a></li>
               <li><a href="#text__paragraphs">Paragraphs</a></li>
-              <li><a href="#text__blockquotes">Blockquotes</a></li>
+              <li><a href="#text__blockquote">Blockquote</a></li>
               <li><a href="#text__lists">Lists</a></li>
               <li><a href="#text__hr">Horizontal rules</a></li>
               <li><a href="#text__tables">Tabular data</a></li>
@@ -69,7 +47,7 @@ html5-test-page/index.html
               <li><a href="#forms__select">Select menus</a></li>
               <li><a href="#forms__checkbox">Checkboxes</a></li>
               <li><a href="#forms__radio">Radio buttons</a></li>
-              <li><a href="#forms__textareas">Textareas</a></li>
+              <li><a href="#forms__textarea">Textarea</a></li>
               <li><a href="#forms__html5">HTML5 inputs</a></li>
               <li><a href="#forms__action">Action buttons</a></li>
             </ul>
@@ -100,11 +78,11 @@ html5-test-page/index.html
             </div>
             <footer><p><a href="#top">[Top]</a></p></footer>
           </article>
-          <article id="text__blockquotes">
-            <header><h1>Blockquotes</h1></header>
+          <article id="text__blockquote">
+            <header><h1>Blockquote</h1></header>
             <div>
               <blockquote>
-                <p>A block quotation (also known as a long quotation or extract) is a quotation in a written document, that is set off from the main text as a paragraph, or block of text.</p>
+                <p>A block quotation also known as a long quotation or extract is a quotation in a written document, that is set off from the main text as a paragraph, or block of text.</p>
                 <p>It is typically distinguished visually using indentation and a different typeface or smaller size quotation. It may or may not include a citation, usually placed at the bottom.</p>
                 <cite><a href="#!">Said no one, ever.</a></cite>
               </blockquote>
@@ -223,7 +201,7 @@ html5-test-page/index.html
               <p>The <i>i element</i> is text that is offset from the normal text.</p>
               <p>The <u>u element</u> is text with an unarticulated, though explicitly rendered, non-textual annotation.</p>
               <p><del>This text is deleted</del> and <ins>This text is inserted</ins>.</p>
-              <p><s>This text has a strikethrough</s>.</p>
+              <p><s>This text has a strike-through</s>.</p>
               <p>Superscript<sup>®</sup>.</p>
               <p>Subscript for things like H<sub>2</sub>O.</p>
               <p><small>This small text is small for for fine print, etc.</small></p>
