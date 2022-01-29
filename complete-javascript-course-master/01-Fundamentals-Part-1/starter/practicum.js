@@ -11,6 +11,8 @@ console.log(population);
 console.log(isIsland);
 console.log(language);
 
+country = 'Mexico';
+language = 'Spanish';
 
-let language = 'English';
-const country = 'USA';
+console.log(country);
+console.log(language);
