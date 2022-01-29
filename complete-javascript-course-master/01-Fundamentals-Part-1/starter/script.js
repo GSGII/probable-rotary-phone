@@ -67,6 +67,10 @@ const birthyear = 1991;
 var job = 'programer'
 job = 'teacher'
 
+lastName = 'Gentry'
+console.log(lastName);
+
+
 
 
 
