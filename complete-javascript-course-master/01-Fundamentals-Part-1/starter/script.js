@@ -20,7 +20,7 @@ let person = 'jonas'
 let PI = 3.1415;
 
 let myFirstJob = 'Programer'
-let myCurrentJob = 'Teacher'
+let myCurrentJob = 'Teacheer'
 console.log(myFirstJob);
 console.log(myCurrentJob);
 */
